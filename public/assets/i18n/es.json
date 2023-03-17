@@ -1,0 +1,83 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "offers": "Ofertas",
+        "about": "Sobre Nosotros",
+        "contact": "Contacto",
+        "frecuent-questions": "Preguntas Frecuentes",
+        "help": "Ayuda",
+        "gallery": "Galería",
+        "studio": "Estudio",
+        "exterior": "Exteriores",
+        "weddings": "Bodas",
+        "kids": "Niños",
+        "models": "Modelos",
+        "pregnants": "Embarazadas",
+        "mini15": "Miniquinces",
+        "many": "Varias",
+        "language": "Idioma",
+        "developer": "Quien creó esta WEB ?"
+    },
+    "home": {
+        "btn-reserve": "Reservar"
+    },
+    "offers": {
+        "title": "Ofertas",
+        "albums": "Albums (medidas)",
+        "fifteen-weddings": "Quinces/Bodas",
+        "album-customized": "Album perzonalizado",
+        "acrylic-cover": "Portada de acrílico",
+        "kids": "Niños",
+        "pregnants": "Embarazadas",
+        "products": "Productos"
+    },
+    "about": {
+        "title": "Acerca",
+        "title1": "Mirarte como si fueras magia...",
+        "title2": "FRIDARTE STUDIO es una empresa en el centro de Cuba que ofrece servicios múltiples de publicidad, fotografía social, empresarial y de moda a todas las personas naturales o jurídicas que prefieren una nueva estética visual y productos de mejor factura en todos los formatos. Está abierta a la colaboración entre proyectos preferentemente de nuestra localidad.",
+        "photograph-for": "Fotografías Para",
+        "quinces-text": "Por ser uno de los momentos más esperados por la familia, nos hemos especializado en la fotografía de 15, por lo que disponemos para ello de avanzada tecnología y capacitación profesional, además de una amplia variedad de trajes, vestuarios, accesorios y calzado. Contamos con varios estudios y sets naturales exclusivos, brindamos servicios de fotografía y video en exteriores así como en la fiesta de celebración.",
+        "models": "Modelos",
+        "models-text": "La iluminación, el control absoluto de la puesta en escena, la creatividad y el carisma de nuestras modelos diferencian el trabajo de FRIDARTE MODEL. Con el equipamiento necesario podemos encargarnos de la fotografía de sus productos y su catálogo, ya sea físico o para webs. Nuestras fotografías mejoran la imagen de su marca por la calidad visual que ofertamos.",
+        "pregnants": "Embarazadas",
+        "pregnant-text": "Conserva el momento único del embarazo en unos retratos familiares. Nuestras sesiones de fotos son elegantes y minimalistas, centrándonos en la belleza y la emoción de este momento único. Disponemos de vestuario especializado con más de una docena de vestidos para la ocasión.",
+        "kids":"Niños",
+        "kids-text": "Acompañamos a la familia en sus momentos más importantes, compartimos la alegría de la primera imagen del mes hasta su primer año de vida, los MINI 15, sus fiestas de cumpleaños y los mejores recuerdos de su infancia.",
+        "weddings": "Bodas",
+        "weddings-text": "Bodas inolvidables con un estilo documental, natural y moderno, fotos llenas de luz y color con un toque divertido y romántico además de las acostumbradas fotografías de estudio y exteriores. Ofrecemos cobertura completa para la ceremonia sin descuidar ningún detalle, los preparativos, las emociones y el esplendor de la decoración."
+    },
+    "contact": {
+        "title": "Contactarnos",
+        "see-map": "Ver Mapa",
+        "reserve": "Reservar",
+        "name": "Nombre",
+        "celular": "Celular",
+        "celular-error": "Celular es requerido",
+        "email": "Correo",
+        "email-error": "correo es requerido",
+        "doubt": "Deja tu duda !",
+        "doubt-error": "este campo falta",
+        "select": "Modalidad",
+        "placeholder-select": "- Seleccione -",
+        "message": "Mensaje",
+        "message-error": "Mensaje falta",
+        "send": "Enviar"
+    },
+    "frecuent-questions": {
+        "title": "Preguntas Frecuentes",
+        "recomendations": "Recomendaciones Generales",
+        "common-questions": "Preguntas Más Comunes"
+    },
+    "help": {
+        "title": "Ayuda",
+        "developer-title": "Desarrollador",
+        "developer-info1": "Hola, mi nombre es Onier y he creado este sitio web, si desea crear su propio sitio web para su negocio, solo envíeme un mensaje de texto a mi WHATSApp arriba o contácteme en onier0217@gmail.com",
+        "developer-info2": "Sería un placer servirle, más información sobre mí, haga clic aquí debajo"
+    },
+    "footer": {
+        "title-gallery": "Galería",
+        "title-pages": "Páginas",
+        "title-offers": "Ofertas",
+        "title-contact": "Contacto"
+    }
+}

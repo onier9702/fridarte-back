@@ -1,0 +1,83 @@
+{
+    "menu": {
+        "home": "Home",
+        "offers": "Offers",
+        "about": "About Us",
+        "contact": "Contact",
+        "frecuent-questions": "Frecuent Questions",
+        "help": "Help",
+        "gallery": "Gallery",
+        "studio": "Studio",
+        "exterior": "Exteriors",
+        "weddings": "Weddings",
+        "kids": "Kids",
+        "models": "Models",
+        "pregnants": "Pregnants",
+        "mini15": "Miniquinces",
+        "many": "Many",
+        "language": "Language",
+        "developer": "Who created this WEB ?"
+    },
+    "home": {
+        "btn-reserve": "Reserve"
+    },
+    "offers": {
+        "title": "Offers",
+        "albums": "Albums (measures)",
+        "fifteen-weddings": "Quinces/Weddings",
+        "album-customized": "Customized Album",
+        "acrylic-cover": "Acrylic Portrait",
+        "kids": "Kids",
+        "pregnants": "Pregnants",
+        "products": "Products"
+    },
+    "about": {
+        "title": "About",
+        "title1": "Look at you like you're magic...",
+        "title2": "FRIDARTE STUDIO is a company in the center of Cuba that offers multiple advertising, social, business and fashion photography services to all natural or legal persons who prefer a new visual aesthetic and better invoice products in all formats. It is open to collaboration between projects preferably from our locality.",
+        "photograph-for": "Photographs To",
+        "quinces-text": "Because it is one of the most anticipated moments for the family, we have specialized in the photography of 15-year-olds, so we have advanced technology and professional training for it, as well as a wide variety of suits, costumes, accessories, and footwear. We have several studios and exclusive natural sets, we provide photography and video services outdoors as well as at the celebration party.",
+        "models": "Models",
+        "models-text": "The lighting, the absolute control of the staging, the creativity and the charisma of our models differentiate the work of FRIDARTE MODEL. With the necessary equipment we can take care of the photography of your products and your catalogue, whether physical or for websites. Our photographs improve the image of your brand due to the visual quality that we offer.",
+        "pregnants": "Pregnants",
+        "pregnant-text": "Preserve the unique moment of pregnancy in family portraits. Our photo sessions are elegant and minimalist, focusing on the beauty and emotion of this unique moment. We have a specialized wardrobe with more than a dozen dresses for the occasion.",
+        "kids":"Kids",
+        "kids-text": "We accompany the family in their most important moments, we share the joy of the first image of the month until their first year of life, the MINI 15, their birthday parties and the best memories of their childhood.",
+        "weddings": "Weddings",
+        "weddings-text": "Unforgettable weddings with a documentary, natural and modern style, photos full of light and color with a fun and romantic touch, in addition to the usual studio and outdoor photographs. We offer complete coverage for the ceremony without neglecting any detail, the preparations, the emotions and the splendor of the decoration."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "see-map": "See Map",
+        "reserve": "Reserve",
+        "name": "Name",
+        "celular": "Celular",
+        "celular-error": "Celular is required",
+        "email": "Email",
+        "email-error": "email is required",
+        "doubt": "Type your doubt !",
+        "doubt-error": "text missing",
+        "select": "Model",
+        "placeholder-select": "- Select -",
+        "message": "Message",
+        "message-error": "Message missing",
+        "send": "Send"
+    },
+    "frecuent-questions": {
+        "title": "Frecuent Questions",
+        "recomendations": "General Recomendations",
+        "common-questions": "Common Questions"
+    },
+    "help": {
+        "title": "Help",
+        "developer-title": "Developer",
+        "developer-info1": "Hi, My name is Onier and I have created this website, if you would like to build your own web for your business, just text me on my WHATSApp above or contact me at onier0217@gmail.com",
+        "developer-info2": "It would be a pleasure to traet with you, more info about me, click here below"
+    },
+    "footer": {
+        "title-gallery": "Gallery",
+        "title-pages": "Pages",
+        "title-offers": "Offers",
+        "title-contact": "Contact"
+    }
+}
