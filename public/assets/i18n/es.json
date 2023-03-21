@@ -23,13 +23,14 @@
     },
     "offers": {
         "title": "Ofertas",
-        "albums": "Albums (medidas)",
+        "albums": "Álbumes (medidas)",
         "fifteen-weddings": "Quinces/Bodas",
         "album-customized": "Album perzonalizado",
         "acrylic-cover": "Portada de acrílico",
         "kids": "Niños",
         "pregnants": "Embarazadas",
-        "products": "Productos"
+        "products": "Productos",
+        "options": "Ofertas"
     },
     "about": {
         "title": "Acerca",
@@ -48,9 +49,10 @@
     },
     "contact": {
         "title": "Contactarnos",
-        "see-map": "Ver Mapa",
+        "see-map": "Google Map",
         "reserve": "Reservar",
         "name": "Nombre",
+        "name-error": "Nombre es requerido",
         "celular": "Celular",
         "celular-error": "Celular es requerido",
         "email": "Correo",

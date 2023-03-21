@@ -29,7 +29,8 @@
         "acrylic-cover": "Acrylic Portrait",
         "kids": "Kids",
         "pregnants": "Pregnants",
-        "products": "Products"
+        "products": "Products",
+        "options": "Offers"
     },
     "about": {
         "title": "About",
@@ -48,9 +49,10 @@
     },
     "contact": {
         "title": "Contact Us",
-        "see-map": "See Map",
+        "see-map": "Google Map",
         "reserve": "Reserve",
         "name": "Name",
+        "name-error": "Name is obligated",
         "celular": "Celular",
         "celular-error": "Celular is required",
         "email": "Email",
