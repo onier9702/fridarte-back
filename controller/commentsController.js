@@ -64,6 +64,7 @@ const getComments = ( req, res = response ) => {
     try {
 
         const url = join( __dirname, '../database/comments.json');
+        console.log('URL getting comments api: ', url);
         if (!fs.existsSync(url)) {
             res.status(400).json({
                 ok: false,
