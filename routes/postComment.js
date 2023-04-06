@@ -10,7 +10,7 @@ const router = Router();
     Here path is: /api/comments
 */
 
-router.post('/', postComment);
 router.get('/', getComments);
+router.post('/', postComment);
 
 module.exports = router;

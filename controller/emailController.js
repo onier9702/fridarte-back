@@ -21,7 +21,8 @@ const emailController = (req, res = response) => {
         
         const mailOptions = {
             from: 'onier0217@gmail.com', // Sender address
-            to: 'fridartestudiooficial@gmail.com', // List of recipients
+            // to: 'fridartestudiooficial@gmail.com', // List of recipients
+            to: 'onier0217@gmail.com', // List of recipients
             subject: (doubt) ? 'Ayuda Web Fridarte' : 'Reserva Cliente Web Fridarte', // Subject line
             text: (doubt) ? 'Ayuda' : 'Reserva Cliente', // Plain text body
             html: (doubt) ? textDoubt : textReserve, // html body
