@@ -63,19 +63,24 @@ const getComments = ( req, res = response ) => {
 
     try {
 
-        const url = join( __dirname, '../database/comments.json');
-        console.log('URL getting comments api: ', url);
-        if (!fs.existsSync(url)) {
-            res.status(400).json({
-                ok: false,
-                msg: 'Path does not exists getting comments'
-            })
-        }
-        const resp = fs.readFileSync( url, { encoding: 'utf-8'});
-        const data = JSON.parse(resp);
-        res.status(200).json(
-            data.comments
-        )
+        // const url = join( __dirname, '../database/comments.json');
+        // console.log('URL getting comments api: ', url);
+        // if (!fs.existsSync(url)) {
+        //     res.status(400).json({
+        //         ok: false,
+        //         msg: 'Path does not exists getting comments'
+        //     })
+        // }
+        // const resp = fs.readFileSync( url, { encoding: 'utf-8'});
+        // const data = JSON.parse(resp);
+        // res.status(200).json(
+        //     data.comments
+        // )
+
+        res.status(200).json({
+            ok: true,
+            msg: 'Testing endpoint'
+        })
         
     } catch (error) {
         console.log(error);
