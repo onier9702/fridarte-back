@@ -19,7 +19,13 @@
         "developer": "Quien creó esta WEB ?"
     },
     "home": {
-        "btn-reserve": "Reservar"
+        "btn-reserve": "Reservar",
+        "rate": "Valóranos",
+        "name": "Nombre",
+        "comment": "Comentario",
+        "invalid": "Necesita llenar ambos campos",
+        "send": "Calificar",
+        "see_form_comment": "Déjanos tu comentario"
     },
     "offers": {
         "title": "Ofertas",

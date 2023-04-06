@@ -19,7 +19,13 @@
         "developer": "Who created this WEB ?"
     },
     "home": {
-        "btn-reserve": "Reserve"
+        "btn-reserve": "Reserve",
+        "rate": "Rate us",
+        "name": "Name",
+        "comment": "Comment",
+        "invalid": "Need to fill out both fields",
+        "send": "Qualify",
+        "see_form_comment": "Leave us your commment"
     },
     "offers": {
         "title": "Offers",

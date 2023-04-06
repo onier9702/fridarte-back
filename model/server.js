@@ -12,6 +12,7 @@ class Server {
         this.port = process.env.PORT;
         this.paths = {
             email:      '/api/email',
+            comment:      '/api/comments',
         };
 
         this.middlewares();
@@ -34,6 +35,7 @@ class Server {
 
     routes() {
         this.app.use( this.paths.email, require('../routes/sendEmail') );
+        this.app.use( this.paths.comment, require('../routes/postComment') );
         // the last
         this.app.get('*', (req, res) => {
             res.sendFile( path.resolve( __dirname, 'public/index.html' ) );
